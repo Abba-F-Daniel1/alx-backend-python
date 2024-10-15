@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-This module contains a single function, wait_random, which asynchronously 
-waits for a random delay between 0 and max_delay seconds and returns the actual wait time.
+This module contains the wait_random function which waits asynchronously
+for a random time between 0 and max_delay seconds and returns the wait time.
 """
 
 import random
